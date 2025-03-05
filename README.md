@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justineshakespeare
 - I recently completed the advanced graduate certificate in Data Analytics and Computational Social Science at the University of Massachusetts Amherst.
-- I’m interested in building on my R programming and statistical analysis skills.
+- I’m interested in building on my R programming and statistical analysis skills. In this program I built my skills in data analytics using R, statistical methods, research design, and survey methodology. 
 
 - See my website here: https://justineshakespeare.github.io/portfolio/
 
